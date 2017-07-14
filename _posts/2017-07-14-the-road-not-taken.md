@@ -5,9 +5,9 @@ image_teaser: 'https://media3.giphy.com/media/3og0IFRM2W3Ylg4tIA/giphy.gif'
 published: false
 title: The Road Not Taken
 ---
-## By Robert Frost
+## The Road Not Taken
 
-### The Road Not Taken
+### By Robert Frost
  
  
   TWO roads diverged in a yellow wood,	
