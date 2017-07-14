@@ -36,6 +36,11 @@ prose:
           element: "text"
           label: 'Author'
           placeholder: "post author"
+       - name: "institution"
+        field:
+          element: "text"
+          label: 'Institution'
+          placeholder: "your institution"
       - name: "image_teaser"
         field:
           element: "text"
