@@ -2,7 +2,7 @@
 modified: '2017-07-14 10:14 -0400'
 layout: post
 image_teaser: 'https://media3.giphy.com/media/3og0IFRM2W3Ylg4tIA/giphy.gif'
-published: false
+published: true
 title: The Road Not Taken
 ---
 ## The Road Not Taken
